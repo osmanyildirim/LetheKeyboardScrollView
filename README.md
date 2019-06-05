@@ -24,4 +24,4 @@ you can configure
 License
 -------
 
-LetheStretchyHeader is released under an MIT license. See ``LICENSE`` for more information.
+LetheKeyboardScrollView is released under an MIT license. See ``LICENSE`` for more information.
