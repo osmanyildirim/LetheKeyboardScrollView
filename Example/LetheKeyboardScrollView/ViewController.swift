@@ -2,23 +2,25 @@
 //  ViewController.swift
 //  LetheKeyboardScrollView
 //
-//  Created by yildirimosman@outlook.com on 06/05/2019.
-//  Copyright (c) 2019 yildirimosman@outlook.com. All rights reserved.
+//  Created by Osman YILDIRIM on 5.06.2019.
+//  Copyright © 2019 Osman YILDIRIM. All rights reserved.
 //
 
 import UIKit
+import LetheKeyboardScrollView
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
+    @IBOutlet private weak var scrollView: LetheKeyboardScrollView!
+    @IBOutlet private weak var stackView: UIStackView!
+
+    var keyboardToolbar: UIToolbar!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        for case let item as UITextField in stackView.subviews {
+           item.addDoneButton()
+        }
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 }
 

@@ -1,0 +1,6 @@
+framework module LetheKeyboardScrollView {
+  umbrella header "LetheKeyboardScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

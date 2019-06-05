@@ -1,0 +1,16 @@
+PODS:
+  - LetheKeyboardScrollView (0.1.0)
+
+DEPENDENCIES:
+  - LetheKeyboardScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  LetheKeyboardScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LetheKeyboardScrollView: 4f234edd4278f64e3dc7e59ead5e99b1a03026fb
+
+PODFILE CHECKSUM: ef155c0786d006791082dc31b8983b8fa28f517b
+
+COCOAPODS: 1.7.1
