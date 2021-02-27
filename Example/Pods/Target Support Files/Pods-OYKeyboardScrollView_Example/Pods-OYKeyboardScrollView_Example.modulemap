@@ -1,0 +1,6 @@
+framework module Pods_OYKeyboardScrollView_Example {
+  umbrella header "Pods-OYKeyboardScrollView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

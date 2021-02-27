@@ -1,5 +1,5 @@
 import XCTest
-import LetheKeyboardScrollView
+import OYKeyboardScrollView
 
 class Tests: XCTestCase {
     

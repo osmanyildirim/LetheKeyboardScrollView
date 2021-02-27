@@ -1,5 +1,13 @@
 use_frameworks!
 
-target 'LetheKeyboardScrollView_Example' do
-  pod 'LetheKeyboardScrollView', :path => '../'
+platform :ios, '9.0'
+
+target 'OYKeyboardScrollView_Example' do
+  pod 'OYKeyboardScrollView', :path => '../'
+
+  target 'OYKeyboardScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
 end

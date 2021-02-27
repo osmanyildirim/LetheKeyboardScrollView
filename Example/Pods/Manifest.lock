@@ -1,16 +1,16 @@
 PODS:
-  - LetheKeyboardScrollView (0.1.0)
+  - OYKeyboardScrollView (0.1.0)
 
 DEPENDENCIES:
-  - LetheKeyboardScrollView (from `../`)
+  - OYKeyboardScrollView (from `../`)
 
 EXTERNAL SOURCES:
-  LetheKeyboardScrollView:
+  OYKeyboardScrollView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LetheKeyboardScrollView: 4f234edd4278f64e3dc7e59ead5e99b1a03026fb
+  OYKeyboardScrollView: d11dea48729cd52d8d0a81fb54481400e9fcc98b
 
-PODFILE CHECKSUM: ef155c0786d006791082dc31b8983b8fa28f517b
+PODFILE CHECKSUM: 302d4200e4205a4569042203ffc64db811e1a48d
 
-COCOAPODS: 1.7.1
+COCOAPODS: 1.10.1

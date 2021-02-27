@@ -1,27 +1,20 @@
-# LetheKeyboardScrollView
-![LetheKeyboardScrollView](LetheKeyboardScrollView_2.gif)
+# OYKeyboardScrollView
+<img src="OYKeyboardScrollView.gif" width="278" height="600"/>
 
 Installation
 ------------
 
 ### CocoaPods
 
-Just add `pod 'LetheKeyboardScrollView'` to your Podfile then run `pod install` or `pod update`.
+Just add `pod 'OYKeyboardScrollView'` to your Podfile then run `pod install` or `pod update`.
 
-In any file you'd like to use LetheKeyboardScrollView in, don't forget to
-import the framework with `import LetheKeyboardScrollView`.
+In any file you'd like to use OYKeyboardScrollView in, don't forget to
+import the framework with `import OYKeyboardScrollView`.
 
 ### Manually
-Download and drop LetheKeyboardScrollView.swift in your project.
-
-Usage
----
-
-you can configure
-
-![LetheKeyboardScrollView](LetheKeyboardScrollView.gif)
+Download and drop OYKeyboardScrollView.swift in your project.
 
 License
 -------
 
-LetheKeyboardScrollView is released under an MIT license. See ``LICENSE`` for more information.
+OYKeyboardScrollView is released under an MIT license. See ``LICENSE`` for more information.
